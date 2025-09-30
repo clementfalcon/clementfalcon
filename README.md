@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi everyone 👋
 
+I'm Clément, a passionate developer from France. I mainly enjoy working with C++ and Python.
+
+- 🌱 I’m currently learning Ruby
 <!--
 **clementfalcon/clementfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
